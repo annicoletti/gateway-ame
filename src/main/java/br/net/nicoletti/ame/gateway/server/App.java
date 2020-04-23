@@ -13,7 +13,7 @@ import br.net.nicoletti.ame.gateway.restful.GatewayRESTFul;
 
 public class App {
 
-	private static final URI BASE_URI = URI.create("http://localhost:8888/");
+	private static final URI BASE_URI = URI.create("https://gateway-ame.herokuapp.com:80/");
 	/**
 	 * "Hello World" root resource path.
 	 */
